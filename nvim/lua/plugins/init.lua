@@ -1,8 +1,0 @@
-require("plugins.nvim-web-devicons")
-require("plugins.lualine")
-require("plugins.nvim-tree")
-require("plugins.gruvbox")
-require("plugins.telescope")
-require("plugins.nvim-treesitter")
-require("plugins.norminette")
-require("plugins.42header")
